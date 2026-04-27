@@ -1,6 +1,8 @@
 # LuxeStore — Premium E-commerce Platform
 
-LuxeStore is a sophisticated, full-stack e-commerce application built with a focus on premium aesthetics, seamless user experience, and robust backend management. It is designed specifically for high-end retail, featuring Indian Rupee (INR) localization and a curated design system.
+**CodeAlpha Internship Project** — A sophisticated, full-stack e-commerce application built with a focus on premium aesthetics, seamless user experience, and robust backend management.
+
+LuxeStore is designed specifically for high-end retail, featuring Indian Rupee (INR) localization and a curated design system.
 
 ## ✨ Features
 
@@ -33,7 +35,7 @@ LuxeStore is a sophisticated, full-stack e-commerce application built with a foc
 
 ### Backend
 - **Node.js & Express**: High-performance RESTful API.
-- **Prisma ORM**: Type-safe database access and migrations.
+- **Prisma ORM**: Type-safe database access and migrations (PostgreSQL).
 - **PostgreSQL**: Robust relational database for reliable data persistence.
 - **JWT (JSON Web Tokens)**: Secure stateless authentication.
 - **Bcrypt.js**: Industry-standard password hashing.
@@ -88,4 +90,4 @@ After seeding, you can log in as admin:
 - **Password**: `admin123`
 
 ---
-*Created with ❤️ for premium retail experiences.*
+*Created for the CodeAlpha Internship Program.*
