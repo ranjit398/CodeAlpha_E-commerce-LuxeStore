@@ -87,7 +87,7 @@ npm start
 ## 👤 Admin Credentials
 After seeding, you can log in as admin:
 - **Email**: `admin@luxestore.com`
-- **Password**: `admin123`
+- **Password**: `*******`
 
 ---
 *Created for the CodeAlpha Internship Program.*
